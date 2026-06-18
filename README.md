@@ -88,9 +88,7 @@ pip install streamlit pandas plotly
 streamlit run app.py
 ```
 
-## 🚀 Live Demo 
-
-**[Open Live App on Streamlit Cloud](https://business-profitability-dashboard.streamlit.app/)**
+The Dashboard will directly open at **[https://business-profitability-dashboard.streamlit.app/](https://business-profitability-dashboard.streamlit.app/)**
 
 ---
 
