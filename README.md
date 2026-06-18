@@ -90,7 +90,7 @@ streamlit run app.py
 
 ## 🚀 Live Demo 
 
-**[Open Live App on Streamlit Cloud](https://business-profitability-dashboard.streamlit./)**
+**[Open Live App on Streamlit Cloud](https://business-profitability-dashboard.streamlit.app/)**
 
 ---
 
