@@ -88,7 +88,7 @@ pip install streamlit pandas plotly
 streamlit run app.py
 ```
 
-The dashboard will open automatically at **[Streamlit](https://business-profitability-dashboard.streamlit.app/)**
+The dashboard will open automatically at **[https://business-profitability-dashboard.streamlit./](https://business-profitability-dashboard.streamlit./)**
 
 ---
 
